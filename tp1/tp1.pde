@@ -1,3 +1,7 @@
+//TP1
+//Franco Orlandi
+//COM5
+
 PImage img;
 
 void setup () {
